@@ -12,6 +12,8 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
+I'm not sure how this works though...
+
 Creating recipes
 ----------------
 
@@ -32,3 +34,4 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Which gives you some delicious food!
