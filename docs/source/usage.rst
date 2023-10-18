@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-I'm not sure how this works though...
+I'm not sure how this works though.
 
 Creating recipes
 ----------------
